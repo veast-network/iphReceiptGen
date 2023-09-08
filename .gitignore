@@ -131,4 +131,5 @@ dist
 data-*.json
 !data-*.example.json
 
-output/*
+output/*.docx
+output/*.docx#
