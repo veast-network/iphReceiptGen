@@ -1,0 +1,15 @@
+{
+  "name": "iphreceiptgen",
+  "version": "1.0.0",
+  "description": "ermm... wtflip?",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "veast",
+  "license": "MIT",
+  "dependencies": {
+    "docxtemplater": "^3.38.0",
+    "pizzip": "^3.1.4"
+  }
+}
