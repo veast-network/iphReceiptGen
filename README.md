@@ -10,7 +10,7 @@ how to use:
 
 | todo | done?                   | 
 | ---- | ----                    |
-| add more store templates       | ❌ 
+| add more store templates       | ✅  
 | make script compatible with multiple templates | ✅ 
 | make github repo (lol)         | ✅ 
 
