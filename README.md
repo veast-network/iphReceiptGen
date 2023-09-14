@@ -13,5 +13,7 @@ how to use:
 | add more store templates       | ✅  
 | make script compatible with multiple templates | ✅ 
 | make github repo (lol)         | ✅ 
+| make web ui                    | ❌
+| make computer/mobile program   | ❌
 
 (for educational purposes only)
